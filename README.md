@@ -7,4 +7,4 @@ The goals of this project are:
 
 # Problems to solve
 - how to handle plugin configuration?
-- 
+- core abstraction for a plugin
